@@ -53,8 +53,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/paula/Desktop/DSA/Heap",
-      "program": "c:/Users/paula/Desktop/DSA/Heap/build/Debug/outDebug",
+      "cwd": "c:/Users/paula/Desktop/DSA/SLW&TP",
+      "program": "c:/Users/paula/Desktop/DSA/SLW&TP/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
